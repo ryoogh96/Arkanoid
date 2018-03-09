@@ -1,4 +1,4 @@
-# Arkanoid_ver_1.0
+# Arkanoid
 Arkanoid Game with SFML Graphic Library
 
 Stringhelper.hpp, .inl is from SFML Game Development 
